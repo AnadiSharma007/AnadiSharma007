@@ -1,4 +1,4 @@
-###👋 Hello World, I'm Anadi!
+### 👋 Hello World, I'm Anadi!
 
 ### Full Stack Developer 💻
 

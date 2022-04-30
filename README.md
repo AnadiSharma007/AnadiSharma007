@@ -5,10 +5,10 @@
 
 
 * 🌍 I'm based in Indore, India
-- 🔭 I’m currently working on ... Personal Full Stack Projects
-- 🌱 I’m currently learning ... MERN Stack
-- 👯 I'm open to collaborate on Full Stack projects.
-- 💬 Ask me about ... Anything
+* 🔭 I’m currently working on ... Personal Full Stack Projects
+* 🌱 I’m currently learning ... MERN Stack
+* 👯 I'm open to collaborate on Full Stack projects.
+* 💬 Ask me about ... Anything
 * 🖥️  See my portfolio at [My Portfolio](https://anadi-sharma.com)
 * ✉️  You can contact me at [anadis764@gmail.com](mailto:anadis764@gmail.com)
 * 😄 Pronouns: ... HE/HIM

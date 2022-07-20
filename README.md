@@ -6,7 +6,7 @@
 
 * 🌍 I'm based in Indore, India
 * 🔭 I’m currently working on ... Personal Full Stack Projects
-* 🌱 I’m currently learning ... MERN Stack
+* 🌱 I’m currently learning ... MERN Stack | BLOCKCHAIN
 * 👯 I'm open to collaborate on Full Stack projects.
 * 💬 Ask me about ... Anything
 * 🖥️  See my portfolio at [My Portfolio](https://anadi-sharma.com)

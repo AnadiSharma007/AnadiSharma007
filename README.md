@@ -5,14 +5,13 @@
 
 
 * 🌍 I'm based in Indore, India
-* 🔭 I’m currently working on ... Personal Full Stack Projects
-* 🌱 I’m currently learning ... MERN Stack | BLOCKCHAIN
+* 🔭 I’m currently working in ... Fintech 
+* 🌱 I’m currently learning ... RAG | BLOCKCHAIN
 * 👯 I'm open to collaborate on Full Stack projects.
 * 💬 Ask me about ... Anything
-* 🖥️  See my portfolio at [My Portfolio](https://anadi-sharma.com)
+* 🖥️  See my portfolio at [My Portfolio](https://theanadisharma.com)
 * ✉️  You can contact me at [anadis764@gmail.com](mailto:anadis764@gmail.com)
 * 😄 Pronouns: ... HE/HIM
-* ⚡ Fun fact: ... I'm half Finnish
 
 
 ### Skills
